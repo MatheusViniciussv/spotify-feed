@@ -10,9 +10,9 @@ O projeto foi desenvolvido utilizando as ferramentas
 
 ## Instalando configurando a aplicação
 
-```ts
+```
    //Faça o clone do repositório
-   $ git clone
+   $ git clone https://github.com/MatheusViniciussv/spotify-feed.git
 
   //Abra o projeto no vscode
    $ cd spotify-feed
